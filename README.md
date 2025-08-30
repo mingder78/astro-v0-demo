@@ -1,42 +1,20 @@
-# Astro Starter Kit: Minimal
+# intro
 
-```sh
-npm create astro@latest -- --template minimal
 ```
+npx shadcn@latest add "https://v0.app/chat/b/b_MmPPmcCDCZO?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..zxlOkEwBdLlt8jVc.Kbn2P7QqszE_3Gs47GXRLijy8ZAEkLq1oxn0hTEPy_3aqPXXcjiocBwAb5Y.gWqaytvv8QZt_CNK5DI4CQ"
+✔ You need to create a components.json file to add components. Proceed? … yes
+✔ Which color would you like to use as the base color? › Neutral
+✔ Writing components.json.
+✔ Checking registry.
+✔ Installing dependencies.
+✔ Created 4 files:
+  - src/components/ui/button.tsx
+  - src/components/ui/input.tsx
+  - src/components/ui/label.tsx
+  - src/components/ui/checkbox.tsx
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
+Please review v0-generated code before incorporating it into your project to ensure completeness and accuracy.
 ```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
 
 ## 👀 Want to learn more?
 
